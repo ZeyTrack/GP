@@ -1,7 +1,6 @@
 # 🌾 AgroMind – Smart Crop Recommendation & Fertilizer Optimizer
 
 AgroMind is an intelligent web application that assists farmers in making informed agricultural decisions. It recommends the most suitable crop based on soil and environmental data, and applies a linear 
-
 programming model to determine the optimal quantities of N, P, and K fertilizers for maximizing profit while satisfying crop nutrient requirements.
 
 
