@@ -2,9 +2,13 @@
 AgroMind is an intelligent web application that assists farmers in making informed agricultural decisions. It recommends the most suitable crop based on soil and environmental data, and applies a linear programming model to determine the optimal quantities of N, P, and K fertilizers for maximizing profit while satisfying crop nutrient requirements.
 
 🔍 Problem Statement
+
 Farmers often lack access to scientific guidance regarding:
+
 What crop is best suited for their soil and weather conditions.
+
 How to apply fertilizers in a cost-effective and balanced manner.
+
 
 ✅ Solution
 AgroMind solves this by:
