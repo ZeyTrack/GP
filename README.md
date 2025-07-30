@@ -60,3 +60,9 @@ Users can:
 
 After installing all the libraries used :
 Run the Streamlit app --->  streamlit run app.py
+
+## GUI Screenshots
+
+<img src="assets/GUI1.png" width="500"/>
+<img src="assets/GUI2.png" width="500"/>
+<img src="assets/GUI3.png" width="500"/>
