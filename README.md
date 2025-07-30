@@ -66,8 +66,8 @@ Run the Streamlit app --->  streamlit run app.py
 Below is a preview of the Crop Recommendation System GUI built using Streamlit:
 
 #### 📥 Input Section
-![Input](<img src="assets/GUI1.PNG" width="500"/>
+![Input](GUI1.PNG)
 <img src="assets/GUI2.PNG" width="500"/>)
 
 #### 📊 Prediction & Optimization Results
-![Results](<img src="assets/GUI3.PNG" width="500"/>)
+<img src="assets/GUI3.PNG" width="500"/>
