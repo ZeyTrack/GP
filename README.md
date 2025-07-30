@@ -58,5 +58,5 @@ Users can:
 
 ## 🚀 How to Run Locally
 
-# After installing all the libraries used :
-# Run the Streamlit app --->  streamlit run app.py
+After installing all the libraries used :
+Run the Streamlit app --->  streamlit run app.py
